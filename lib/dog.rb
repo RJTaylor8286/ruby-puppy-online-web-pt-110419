@@ -1,3 +1,4 @@
 class Dog 
   
-  @@all
+  @@all = ["Rover", "Fido", "Bane"]
+  
