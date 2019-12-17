@@ -10,3 +10,5 @@ class Dog
   rover = Dog.new("Rover")
   fido = Dog.new("Fido")
   bane = Dog.new("Bane")
+  
+Dog.all
