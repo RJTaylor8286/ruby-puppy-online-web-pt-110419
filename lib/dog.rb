@@ -7,4 +7,4 @@ class Dog
   def initialize(name)
     @name = name
     
-  
+  rover = Dog.new
