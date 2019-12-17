@@ -2,4 +2,5 @@ class Dog
   
   @@all = ["Rover", "Fido", "Bane"]
   
-  attr_accessor
+  attr_accessor :name 
+  
